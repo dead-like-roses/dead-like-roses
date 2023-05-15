@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, Welcome to my profile
+I am Alex (they/them), 19 y.o student from Poland. I specialize in webapps and AI. Currently working as AI engineer intern. <3 cats
+- 🔭 I’m currently working on custom ecommerce website and some interpreter projects in rust
+- 🌱 I’m currently learning AI and distributed systems
 
 <!--
 **dead-like-roses/dead-like-roses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
